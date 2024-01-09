@@ -21,6 +21,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ## Selected Page Screen
+![selectedpagescreen (1)](https://github.com/AyushChauhan7983/Travel_app_UI/assets/89992212/b9494635-a796-4c80-bcb9-cb0579658435)
 
 
 
